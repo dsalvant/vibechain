@@ -1,0 +1,21 @@
+{
+  "app.css": "static/css/app.af3c2cc5.css",
+  "app.css.map": "static/css/app.af3c2cc5.css.map",
+  "app.js": "static/js/app.a3db6119.js",
+  "app.js.map": "static/js/app.a3db6119.js.map",
+  "assets.js": "static/js/assets.005066cd.js",
+  "assets.js.map": "static/js/assets.005066cd.js.map",
+  "react.js": "static/js/react.0d412bd6.js",
+  "react.js.map": "static/js/react.0d412bd6.js.map",
+  "static/media/adventure.jpg": "static/media/adventure.3b352129.jpg",
+  "static/media/boat.jpg": "static/media/boat.7a789930.jpg",
+  "static/media/concert.jpg": "static/media/concert.9a385516.jpg",
+  "static/media/deal.jpg": "static/media/deal.501cb1c5.jpg",
+  "static/media/hike.jpg": "static/media/hike.d2a12875.jpg",
+  "static/media/logo.png": "static/media/logo.b135463b.png",
+  "static/media/man.jpg": "static/media/man.309b9d82.jpg",
+  "static/media/music.jpg": "static/media/music.3132c952.jpg",
+  "static/media/signature.jpg": "static/media/signature.214992c3.jpg",
+  "vendor.js": "static/js/vendor.53fa7ba2.js",
+  "vendor.js.map": "static/js/vendor.53fa7ba2.js.map"
+}
